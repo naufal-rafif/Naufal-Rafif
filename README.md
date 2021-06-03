@@ -6,7 +6,7 @@
 
 👋 Hi guys, welcome to my github profile. My name is **Naufal Rafif Danutirta**. I am a **web designer** and a **frontend web developer**.  I **learned programming in 2018** when was high school.
 
- the skills that I have 👀
+ Skills that I have 👀
 
  * **HTML**
  * **CSS**
