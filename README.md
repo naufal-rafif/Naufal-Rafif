@@ -24,4 +24,4 @@
  📫 reach me at <a href="mailto:email@example.com">naufalrafif301199@gmail.com</a>
  
   ## Donate
- You can support me at [Ko-fi](https://paypal.com/naufalrafif11) or [Trakteer](https://trakteer.id/naufalrafif)
+ You can support me at [Paypal](https://paypal.com/naufalrafif11) or [Trakteer](https://trakteer.id/naufalrafif)
