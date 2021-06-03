@@ -21,7 +21,7 @@
    * **OOP**
    * **CodeIgniter**
    * **Laravel**
- * **UIUX**
+ * **UI/UX**
    * **Adobe XD**
    * **Figma**
    
