@@ -22,8 +22,8 @@
    * **CodeIgniter**
    * **Laravel**
  * **UIUX**
-   * ** Adobe XD **
-   * ** Figma **
+   * **Adobe XD**
+   * **Figma**
    
  📫 reach me at <a href="mailto:email@example.com">naufalrafif301199@gmail.com</a>
  
