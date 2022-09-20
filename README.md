@@ -7,6 +7,7 @@
  * **HTML**
  * **CSS**
    * **Bootstrap**
+   * **Tailwind**
  * **JavaScript**
    * **DOM (Document Object Model)**
    * **ES6**
@@ -17,9 +18,12 @@
    * **OOP**
    * **CodeIgniter**
    * **Laravel**
+ * **Python**
+   * **Flask**
  * **UI/UX**
    * **Adobe XD**
    * **Figma**
+ 
    
  📫 reach me at <a href="mailto:email@example.com">naufalrafif301199@gmail.com</a>
  
