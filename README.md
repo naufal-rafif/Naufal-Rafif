@@ -23,7 +23,7 @@
  * **UI/UX**
    * **Adobe XD**
    * **Figma**
- * **OTHER**
+ * **Other**
    * **Virtual Machine Configuration**
    * **CI/CD**
    * **Load Balancing**
