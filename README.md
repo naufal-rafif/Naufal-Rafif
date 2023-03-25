@@ -20,6 +20,7 @@
    * **Laravel (Optimization With Octane)**
  * **Python**
    * **Flask**
+ * **GO** (In Progress)
  * **UI/UX**
    * **Adobe XD**
    * **Figma**
