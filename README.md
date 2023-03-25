@@ -17,15 +17,19 @@
  * **PHP**
    * **OOP**
    * **CodeIgniter**
-   * **Laravel**
+   * **Laravel (Optimization With Octane)**
  * **Python**
    * **Flask**
  * **UI/UX**
    * **Adobe XD**
    * **Figma**
- 
+ * **OTHER**
+   * **Virtual Machine Configuration**
+   * **CI/CD**
+   * **Load Balancing**
+   * **Docker**
    
- 📫 reach me at <a href="mailto:email@example.com">naufalrafif301199@gmail.com</a>
+ 📫 reach me at <a href="mailto:naufalrafifdanutirta@gmail.com">naufalrafifdanutirta@gmail.com</a>
  
   ## Donate
  You can support me at [Paypal](https://paypal.com/naufalrafif11) or [Trakteer](https://trakteer.id/naufalrafif)
